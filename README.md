@@ -1,4 +1,4 @@
-## SQL Data Cleaning - Nashille Housing Dataset
+## Nashille Housing Dataset
 
 I used Azure Data Studio to do perform data cleaning process on a Nashville Housing dataset as directed by Alex-The-Analyst. 
 
